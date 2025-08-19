@@ -5,6 +5,7 @@
 ![X-axis Vibration signals](X-axis_vib_signal.png)
 ![Y-axis Vibration signals](Y-axis_vib_signal.png)
 ![Z-axis Vibration signals](Z-axis_vib_signal.png)
+![Voltage signals](vol_signal.png)
 
 ## 針對4種訊號，皆各進行20種的特徵提取(12個時域特徵:下圖 & 8個頻域特徵: 快速傅立葉一倍頻~八倍頻)，共有80個特徵
 ![Time-domain features (part 1)](時域特徵_1.png)
